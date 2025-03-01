@@ -53,6 +53,12 @@ I specialize in:
 
 ---
 
+## 📄 My CV
+
+📌 **[Download My CV](cv.pdf)**
+
+---
+
 ## 📬 Contact & Connect  
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ergashboy-masharipov-b356a72b3)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/iam_masharipov/)  &nbsp; <a href="mailto:ergashmasharipov88@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
