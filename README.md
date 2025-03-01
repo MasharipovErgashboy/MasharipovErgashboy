@@ -13,7 +13,8 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm **Masharipov Ergashboy**, a **Full-Stack Developer** with experience in **HTML, CSS, JavaScript, PHP, Java, and MySQL**. Currently, I'm **studying IT at Japan Digital University**.  
+👨‍💻 **Ergashboy Masharipov** | **Web & Software Developer**  
+Bridging technology and creativity to build impactful solutions. Currently studying at **Japan Digital University** while developing scalable applications.
 
 I specialize in:  
 ✔️ **Developing interactive and dynamic web applications using modern technologies**.  
