@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-👨‍💻 **Ergashboy Masharipov** | **Web & Software Developer**  
+👨‍💻 **Ergashboy Masharipov** | **Web Developer**  
 Bridging technology and creativity to build impactful solutions. Currently studying at **Japan Digital University** while developing scalable applications.
 
 I specialize in:  
