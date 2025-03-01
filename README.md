@@ -34,7 +34,7 @@ I specialize in:
 
 ### 🏆 Full Stack Web Development (Amazon - Coursera)
 <p align="center">
-    <img src="certificates/fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
+    <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
 </p>
 🔗 [Verify Certificate](https://coursera.org/verify/U6B07QP2GA10)
 
