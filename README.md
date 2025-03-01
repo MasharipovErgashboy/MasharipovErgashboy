@@ -36,7 +36,8 @@ I specialize in:
 <p align="center">
     <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
 </p>
-🔗 [Verify Certificate](https://coursera.org/verify/U6B07QP2GA10)
+🔗  **Verify Here**: [Coursera Link](https://coursera.org/verify/U6B07QP2GA10)  
+
 
 ---
 
