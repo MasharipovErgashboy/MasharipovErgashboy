@@ -44,13 +44,15 @@ I specialize in:
 
 ---
 
-## 📜 Certifications
+## 📜 My Certifications  
 
-🏆 **Full Stack Web Development - Coursera (Amazon)**  
-[![Coursera Certificate](https://coursera.org/verify/U6B07QP2GA10)](https://coursera.org/verify/U6B07QP2GA10)
+### 🏆 Full Stack Web Development - Amazon (via Coursera)  
+[<img src="certificates/fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="500px">](https://coursera.org/verify/U6B07QP2GA10)
+
+✅ **Verify Here**: [Coursera Link](https://coursera.org/verify/U6B07QP2GA10)  
 
 ---
 
 ## 📬 Contact & Connect  
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ergashboy-masharipov-b356a72b3)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/iam_masharipov/)  &nbsp; <a href="mailto:ergashmasharipov88@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ergashboy-masharipov-b356a72b3)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/iam_masharipov/)  &nbsp; <a href="mailto:ergashmasharipov88@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
