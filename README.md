@@ -56,7 +56,7 @@ I specialize in:
 
 ## 📄 My CV
 
-📌 **[Download My CV](My_CV.pdf)**
+📌 **[Download My CV](MyCV.pdf)**
 
 ---
 
