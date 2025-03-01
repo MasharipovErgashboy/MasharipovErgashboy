@@ -1,7 +1,7 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+I'm+Ergashboy+Masharipov....;Nice+to+meet+you!;Merhaba!+%F0%9F%91%8B;Ben+Masharipov+Ergashboy;Tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1ma+memnun+oldum!;こんにちは!+%F0%9F%91%8B;Ergashboy+と+申します...;お会い+できて+嬉しいです!&center=true&size=30">
-</a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+I'm+Ergashboy+Masharipov....;Nice+to+meet+you!;Merhaba!+%F0%9F%91%8B;Ben+Masharipov+Ergashboy;Tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1ma+memnun+oldum!;こんにちは!+%F0%9F%91%8B;Ergashboy+と+申します...;お会い+できて+嬉しいです!&center=true&size=30">
+    </a>
 </h1>
 
 <p align="center">
@@ -24,9 +24,19 @@ I specialize in:
 🚀 Currently working on:  
 - 📚 **An education management system for JDU**.  
 - 📖 **An online learning platform for my book "Bir Kunda Bir Suhbat"**.  
-- 🛍️ **A mobile app for my e-commerce shop "Qulay_Shop_Uz"**.  
+- 🛍️ **A mobile app for my e-commerce shop "Big_Shop_Uzb"**.  
 
 > **My goal is to build innovative and user-friendly applications that make a real impact.**  
+
+---
+
+## 📜 My Certifications
+
+### 🏆 Full Stack Web Development (Amazon - Coursera)
+<p align="center">
+    <img src="certificates/fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
+</p>
+🔗 [Verify Certificate](https://coursera.org/verify/U6B07QP2GA10)
 
 ---
 
@@ -44,21 +54,12 @@ I specialize in:
 
 ---
 
-## 📜 My Certifications  
-
-### 🏆 Full Stack Web Development - Amazon (via Coursera)  
-[<img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="500px">](https://coursera.org/verify/U6B07QP2GA10)
-
-✅ **Verify Here**: [Coursera Link](https://coursera.org/verify/U6B07QP2GA10)  
-
----
-
 ## 📄 My CV
 
-📌 **[Download My CV](cv.pdf)**
+📌 **[Download My CV](My_CV.pdf)**
 
 ---
 
 ## 📬 Contact & Connect  
 
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ergashboy-masharipov-b356a72b3)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/iam_masharipov/)  &nbsp; <a href="mailto:ergashmasharipov88@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ergashboy-masharipov-b356a72b3)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/iam_masharipov/)  &nbsp; <a href="mailto:ergashmasharipov88@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
