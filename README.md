@@ -30,17 +30,6 @@ I specialize in:
 
 ---
 
-## 📜 My Certifications
-
-### 🏆 Full Stack Web Development (Amazon - Coursera)
-<p align="center">
-    <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
-</p>
-🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
-
-
----
-
 ## 🛠️ Technologies & Tools
 
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
@@ -66,6 +55,19 @@ I specialize in:
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+---
+
+
+## 📜 My Certifications
+
+### 🏆 Full Stack Web Development (Amazon - Coursera)
+<p align="center">
+    <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
+</p>
+🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
+
 
 ---
 
