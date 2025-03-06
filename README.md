@@ -69,6 +69,12 @@ I specialize in:
 </p>
 🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
 
+### 🏆 Introduction to Back-End Development (Meta - Coursera)
+<p align="center">
+    <img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="70%">
+</p>
+🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0
+
 
 ---
 
