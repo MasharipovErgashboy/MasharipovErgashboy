@@ -63,11 +63,8 @@ I specialize in:
 
 ## 📜 My Certifications
 
-<div style="display: flex;">
-    <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="334px">
-    <img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="334px">
-    <img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="334px">
-</div>
+<p align:right><img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="334px"></p>
+<p align:left><img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="334px"></p>
 
 
 🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0
