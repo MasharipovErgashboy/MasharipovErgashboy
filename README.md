@@ -63,17 +63,16 @@ I specialize in:
 
 ## 📜 My Certifications
 
-### 🏆 Full Stack Web Development (Amazon - Coursera)
 <p align="center">
-    <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70%">
+    <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="70px" hight="100px">
 </p>
-🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
 
-### 🏆 Introduction to Back-End Development (Meta - Coursera)
 <p align="center">
-    <img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="70%">
+    <img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="70px" hight="100px" >
 </p>
+
 🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0
+🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
 
 
 ---
