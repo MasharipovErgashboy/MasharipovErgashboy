@@ -67,7 +67,7 @@ I specialize in:
 <p align:left><img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="334px"></p>
 
 
-🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0
+🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0 <br>
 🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
 
 
