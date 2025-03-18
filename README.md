@@ -72,8 +72,8 @@ I specialize in:
 
 
 
-🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0 <br>
 🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10 <br>
+🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0 <br>
 🔗  My Certification Link -> https://coursera.org/verify/7G4MCL01INDO <br>
 🔗  My Certification Link -> https://coursera.org/verify/7GGRCTD8BKF0 
 
