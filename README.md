@@ -66,13 +66,16 @@ I specialize in:
 <div style="display: flex; gap: 20px;">
     <img src="fullstack_cert.jpg" alt="Full Stack Web Development Certificate" width="334px">
     <img src="IntroductiontoBack-EndDevelopment.jpg" alt="Introduction to Back-End Development Certificate" width="334px">
-    <img src="Coursera 7G4MCL01INDO.pdf" alt="Professional_skills_for_international_business" width="334px">
+    <img src="Professional_skills_for_international_business.jpg" alt="Professional_skills_for_international_business" width="334px">
+    <img src="Introduction_to_project_management.jpg" alt="Introduction_to_project_management" width="334px">
 </div>
 
 
 
 🔗  My Certification Link -> https://www.coursera.org/account/accomplishments/verify/W002R5SHGCE0 <br>
-🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10
+🔗  My Certification Link -> https://coursera.org/verify/U6B07QP2GA10 <br>
+🔗  My Certification Link -> https://coursera.org/verify/7G4MCL01INDO <br>
+🔗  My Certification Link -> https://coursera.org/verify/7GGRCTD8BKF0 
 
 
 ---
